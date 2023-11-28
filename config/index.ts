@@ -4,7 +4,7 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: '三顿翻译助手',
-  description: 'App description',
+  description: 'SANDUN',
   copyright: '',
   privacy_policy: '',
   default_language: 'zh-Hans',
